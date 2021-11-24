@@ -8,9 +8,8 @@ public class Perulangan {
 		
 		for(int i=1+1; i<=10; i++) {
 			
-			System.out.println("i");
 			
-			// System.out.printf("%d x %d = %d%n", n, i, n*i);
+			System.out.printf("%d x %d = %d%n", n, i, n*i);
 			
 		}
 		
